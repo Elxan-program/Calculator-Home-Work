@@ -89,6 +89,7 @@ namespace Calculator_Home_Work
 
         private void Equals_Btn_Click(object sender, RoutedEventArgs e)
         {
+            //bkclkan
             try
             {
                 switch (text)
